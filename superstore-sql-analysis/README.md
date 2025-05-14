@@ -20,7 +20,7 @@ Analyze Superstore sales data to answer key business questions:
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 
 - **SQL (SQLite)**
 - **DB Browser for SQLite**
