@@ -57,4 +57,4 @@ ORDER BY Total_Profit ASC
 LIMIT 10;
 
 📥 Dataset
-Dataset used: Sample Superstore Dataset (Kaggle)
+Dataset used: [Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Kaggle)
