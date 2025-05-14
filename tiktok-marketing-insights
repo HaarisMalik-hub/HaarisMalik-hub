@@ -1,13 +1,22 @@
-tiktok-marketing-insights/
-│
-├── data/
-│   └── tiktok_insights.csv
-│
-├── sql/
-│   └── queries.sql
-│
-├── visuals/
-│   └── engagement_trends_chart.png
-│   └── revenue_by_campaign_chart.png
-│
-└── README.md
+# TikTok Marketing Insights
+
+This project analyzes TikTok affiliate marketing campaign data to uncover insights on engagement, conversions, and revenue.
+
+## Dataset
+
+- Campaign, Date, Product, Views, Clicks, Sales, Revenue, Commission
+- Source: Mock or real TikTok affiliate performance data.
+
+## Analysis
+
+### SQL Queries
+
+Below are key queries used to analyze the dataset, including campaign revenue, engagement trends over time, conversion rates, and product sales.
+
+```sql
+-- Sample query to get total revenue and commission by campaign
+SELECT Campaign, 
+       SUM(Revenue) AS total_revenue, 
+       SUM(Commission) AS total_commission
+FROM tiktok_insights
+GROUP BY Campaign;
