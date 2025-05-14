@@ -5,13 +5,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 🛍️ Superstore Sales Analysis with SQL
+# 🛍 Superstore Sales Analysis with SQL
 
 This project explores a fictional Superstore dataset using SQL (SQLite) to extract business insights and help guide decision-making. As part of my data analytics learning journey, this project showcases my ability to write analytical SQL queries, find patterns in data, and communicate findings clearly.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Analyze Superstore sales data to answer key business questions:
 - Which regions and product categories are most profitable?
@@ -20,7 +20,7 @@ Analyze Superstore sales data to answer key business questions:
 
 ---
 
-## 🛠️ Tools & Skills Used
+## 🛠 Tools & Skills Used
 
 - **SQL (SQLite)**
 - **DB Browser for SQLite**
@@ -30,7 +30,7 @@ Analyze Superstore sales data to answer key business questions:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 ✅ **Top Performing Region:** West  
 ✅ **Most Profitable Category:** Technology  
@@ -39,7 +39,7 @@ Analyze Superstore sales data to answer key business questions:
 
 ---
 
-## 📂 SQL Queries
+##  SQL Queries
 
 Here are some examples of queries used in this project:
 
