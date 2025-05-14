@@ -33,7 +33,8 @@ Analyze Superstore sales data to answer key business questions:
 ---
 
 ## 📸 Sample Outputs
-Include screenshots or CSV exports of your query results here.
+![image](https://github.com/user-attachments/assets/c5d5bbd4-3623-47cd-b20c-f9359fbbd8a3)
+
 
 ---
 
