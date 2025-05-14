@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 🛍 Superstore Sales Analysis with SQL
+#  Superstore Sales Analysis with SQL
 
 This project explores a fictional Superstore dataset using SQL (SQLite) to extract business insights and help guide decision-making. As part of my data analytics learning journey, this project showcases my ability to write analytical SQL queries, find patterns in data, and communicate findings clearly.
 
