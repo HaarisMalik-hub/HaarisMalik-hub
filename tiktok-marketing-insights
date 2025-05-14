@@ -1,0 +1,13 @@
+tiktok-marketing-insights/
+│
+├── data/
+│   └── tiktok_insights.csv
+│
+├── sql/
+│   └── queries.sql
+│
+├── visuals/
+│   └── engagement_trends_chart.png
+│   └── revenue_by_campaign_chart.png
+│
+└── README.md
