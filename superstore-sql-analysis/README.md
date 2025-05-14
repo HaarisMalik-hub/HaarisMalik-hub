@@ -64,6 +64,6 @@ Dataset used: [Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek4
 I’m Haaris Malik, an aspiring Data Analyst with hands-on experience in SQL, Excel, and data storytelling. I’ve completed the Google Data Analytics Certificate and am currently building my portfolio to land an entry-level analyst role.
 
 Check out more of my work on my LinkedIn here: www.linkedin.com/in/haaris-malik-2bb50b215
-
+```sql
 ## 📸 Sample Outputs
 Include screenshots or CSV exports of your query results here.
