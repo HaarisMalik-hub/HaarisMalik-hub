@@ -65,3 +65,5 @@ I’m Haaris Malik, an aspiring Data Analyst with hands-on experience in SQL, Ex
 
 Check out more of my work on my LinkedIn here: www.linkedin.com/in/haaris-malik-2bb50b215
 
+📸 Sample Outputs
+Include screenshots or CSV exports of your query results here.
